@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 20px;
+}
+
+header {
+    background-color: yellow;
+    color:blue;
+    padding: 3rem;
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    color: blue;
+}
+
+h2 {
+    color: #0a9396;
+    text-align: center;
+    border: 0cqi;
+}
+.image {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+input, textarea {
+    padding: 0.6rem;
+    font-size: 2rem;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+
+    background: green;
+    border-radius: 50% solid;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    background: yellow;
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
+
+.droit {
+    justify-content: space-between;
+}
+#conteneur {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contact {
+    background-color: aqua;
+
+}
+
+submit {
+    background-color: red;
+}
+
+#about {
+    background-color: beige;
+}
+
+#arow {
+    background-color:floralwhite;
+}
+#r {
+    background-color: violet
+}
+#exp {
+    background-color: bisque;
+}
+
+#about img {
+float: right; height: 200px;;border-radius: 50%;
+margin-right: 100px;
+}
+
+p.true {
+    background-color: blue;
+}
+
+p.r {
+    background-color: rgb(20, 13, 153);
+}
+section#arow p {
+    background-color: yellowgreen;
+    border-radius: 100px; margin-right: 650px; text-align: center;
+    margin-left: 20px; 
+}
+
+section#arow ul{
+    color: blue;
+}
+section#about p {
+    font-size: 15px;
+    margin-right: 400px;
+}
+section#exp p {
+    font-size: 16px;
+}
+section#trou {
+    font-size: 15px;
+}
+section#trou img {
+    float: right; 
+    border-radius: 50%;
+    margin-right: 100px; 
+}
+h2 {
+    font-size: 20px;
+    margin-right: 300px;
+}
+section#projets ul {
+    font-size: 16px;
+}
+nav {
+    font-size: 12px;
+}
+#contactForm {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    
+}
+p.copy {
+    text-align: center;
+    color: darkmagenta;
+}
+.gauche {
+    font-size: 20px;
+    color: darkviolet;
+}
+.p a {
+    color: rgb(255, 80, 80);
+}
+ 
+
